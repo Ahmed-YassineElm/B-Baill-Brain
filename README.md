@@ -14,7 +14,7 @@ To run the backend microservices of the B-Ball-Brain platform locally, follow th
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/your-username/b-ball-brain-backend.git
+   git clone https://github.com/Ahmed-YassineElm/B-Ball-Brain/tree/main
    ```
 2. **Build Docker Images**:
    ```
