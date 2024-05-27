@@ -20,7 +20,7 @@ To run the backend microservices of the B-Ball-Brain platform locally, follow th
    ```
    docker-compose build
    ```
-3. $$Run Docker Containers**:
+3. **Run Docker Containers**:
      ```
      docker-compose up
      ```
